@@ -141,3 +141,21 @@ hr {
 #jobs-in-area {
   color: #55C35E;
 }
+
+#job-card-hover:hover {
+  transform: translate(1px, -1px)
+}
+
+#pets-card-hover:hover {
+  transform: translate(0px, -4px)
+}
+
+#login-btn-hover:hover {
+  transform: translate(0px, -1px);
+  background-color: #24a72e;
+}
+
+#job:hover {
+  transform: translate(0px, -1px);
+  background-color: #24a72e;
+}
