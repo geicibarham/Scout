@@ -150,12 +150,27 @@ hr {
   transform: translate(0px, -4px)
 }
 
-#login-btn-hover:hover {
+#loginNav:hover {
+  transform: translate(0px, -1px);
+  background-color: #24a72e;
+}
+
+#logout:hover {
+  transform: translate(0px, -1px);
+  background-color: #24a72e;
+}
+
+#dropdownMenu2:hover {
   transform: translate(0px, -1px);
   background-color: #24a72e;
 }
 
 #job:hover {
+  transform: translate(0px, -1px);
+  background-color: #24a72e;
+}
+
+#delete-job:hover {
   transform: translate(0px, -1px);
   background-color: #24a72e;
 }
