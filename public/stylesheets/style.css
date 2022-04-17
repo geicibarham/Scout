@@ -6,19 +6,20 @@ body {
 
 .navbar{
   background-color: #FFFFFF !important;
+  
+  
 }
 
 .navbar-brand {
   color: #55C35E !important;
   font-size: 2.0rem;
   padding: 0;
+
 }
 
-/* .nav-link {
-  background-color: #55C35E !important;
-  color: #FFFFFF !important;
-  margin-right: 5px;
-} */
+#job{
+ margin-right: 10px;
+}
 
 .jumbotron {
   background: rgba(0,0,0,0);
@@ -39,6 +40,11 @@ body {
   color:white !important;
   background:#55C35E ;
   border: 1px solid white;
+}
+
+#job-btn{
+  margin-left: 10px;
+  background-color: pink !important;
 }
 
 #user-form, .header-wrap, #create-form, .create-user-wrap {
