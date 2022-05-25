@@ -20,6 +20,8 @@ N/A -
 ## Usage
 A user can navigate from the landing page to input a job buy logging in as a pet owner or the user can chose to login as a pet cagergiver and navigate to their dashboard where they can see jobs that have previously accepted or choose to move in .
 
+
+![alt-text]([https://github.com/geicibarham/Harry-Potter-Quiz/blob/main/assets/images/js-quiz.png](https://github.com/geicibarham/Scout/blob/main/public/images/scout.png))
 ---
 
 ## Technologies
