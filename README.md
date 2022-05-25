@@ -27,7 +27,7 @@ A user can navigate from the landing page to input a job buy logging in as a pet
 ## Technologies
 
 > <b>Development Tools:</b>
-  * node.js
+ 
     * [Sequelize package](https://www.npmjs.com/package/sequelize)
     * [mySQL2 package](https://www.npmjs.com/package/mysql2)
     * [dotenv package](https://www.npmjs.com/package/dotenv)
@@ -36,6 +36,7 @@ A user can navigate from the landing page to input a job buy logging in as a pet
     * [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize)
   * JavaScript
   * SQL
+  * node.js
 
   ---
 
