@@ -28,7 +28,7 @@ A user can navigate from the landing page to input a job buy logging in as a pet
 
 > <b>Development Tools:</b>
  
-    * [Sequelize package](https://www.npmjs.com/package/sequelize)
+    *[Sequelize package](https://www.npmjs.com/package/sequelize)
     * [mySQL2 package](https://www.npmjs.com/package/mysql2)
     * [dotenv package](https://www.npmjs.com/package/dotenv)
     * [express handlebars](https://www.npmjs.com/package/express-handlebars)
